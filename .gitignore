@@ -1,0 +1,16 @@
+# Data #
+########
+*.data
+
+# Notebooks #
+#############
+*.ipynb
+*.ipynb_checkpoints
+
+# Compiled source #
+###################
+*.pyc
+
+# PyCharm #
+###########
+.idea
